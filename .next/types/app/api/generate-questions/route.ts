@@ -1,4 +1,4 @@
-// File: C:\Users\sanjay.b.m\code_thon_2\app\api\generate-questions\route.ts
+// File: c:\Users\aparna.j.kumari\Documents\AI_Resume_Boost\ResumeBoost\app\api\generate-questions\route.ts
 import * as entry from '../../../../../app/api/generate-questions/route.js'
 import type { NextRequest } from 'next/server.js'
 

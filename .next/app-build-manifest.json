@@ -1,70 +1,148 @@
 {
   "pages": {
-    "/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+    "/_not-found/page": [
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/app/_not-found/page-bd1902254419970a.js"
     ],
     "/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/layout.css",
-      "static/chunks/app/layout.js"
-    ],
-    "/sign-up/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/sign-up/page.js"
-    ],
-    "/sign-up/verify-email-address/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/sign-up/verify-email-address/page.js"
-    ],
-    "/dashboard/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/dashboard/page.js"
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/css/5e4901888aa3fcfd.css",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/layout-e10b6360a29a0f56.js"
     ],
     "/ai-interview/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/ai-interview/page.js"
-    ],
-    "/technical-assessment/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/technical-assessment/page.js"
-    ],
-    "/roadmap/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/roadmap/page.js"
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/ai-interview/page-4566a093ab1ba280.js"
     ],
     "/code-editor/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/code-editor/page.js"
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/code-editor/page-8036c22eb9cdd4c2.js"
     ],
-    "/verilog-compiler/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/verilog-compiler/page.js"
+    "/dashboard/page": [
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/dashboard/page-d6c50a1ac2289c0a.js"
+    ],
+    "/embedded-roadmap/page": [
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/embedded-roadmap/page-7a0f8b36135ddb53.js"
     ],
     "/interview/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/interview/page.js"
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/interview/page-fecf300eba1bce60.js"
     ],
     "/recruiter/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/recruiter/page.js"
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/recruiter/page-dbd02f3790da0a50.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/972-5f1d59f9f0f8f6d2.js",
+      "static/chunks/app/page-d010463e94aecc6d.js"
+    ],
+    "/practice/page": [
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/practice/page-56dd0eede6b9f9aa.js"
+    ],
+    "/sign-in/page": [
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/sign-in/page-42d0a278c95f9b62.js"
+    ],
+    "/sign-up/page": [
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/sign-up/page-adbc72382c05c55b.js"
+    ],
+    "/sign-in/verify-email-address/page": [
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/sign-in/verify-email-address/page-3e1491d4ea7bc1a6.js"
+    ],
+    "/sign-up/verify-email-address/page": [
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/sign-up/verify-email-address/page-b9310c006028b333.js"
+    ],
+    "/technical-assessment/page": [
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/technical-assessment/page-2778eacf1aa1fcb1.js"
+    ],
+    "/verilog-compiler/page": [
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/verilog-compiler/page-d59012da89de8714.js"
+    ],
+    "/roadmap/page": [
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/roadmap/page-c42e6b16841d262c.js"
     ],
     "/vlsi-roadmap/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/vlsi-roadmap/page.js"
+      "static/chunks/webpack-29957205745576aa.js",
+      "static/chunks/fd9d1056-450eebaf0a8afe77.js",
+      "static/chunks/117-ca3702efdbea6247.js",
+      "static/chunks/main-app-2158592c188954b7.js",
+      "static/chunks/588-965d03d53aeaf4ee.js",
+      "static/chunks/app/vlsi-roadmap/page-2f8fb17b02569447.js"
     ]
   }
 }

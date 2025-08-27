@@ -1,4 +1,4 @@
-// File: C:\Users\sanjay.b.m\code_thon_2\app\layout.tsx
+// File: c:\Users\aparna.j.kumari\Documents\AI_Resume_Boost\ResumeBoost\app\layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
